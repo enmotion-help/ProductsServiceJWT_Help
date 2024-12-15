@@ -4,6 +4,7 @@ INSERT INTO products (name, serial) VALUES
 ('Travel', '111-222-3333'),
 ('Candy', '111-222-3334'),
 ('Book', '111-222-3335');
+('Newspaper', '111-222-3336');
 
 
 INSERT INTO users (email, password, role) VALUES

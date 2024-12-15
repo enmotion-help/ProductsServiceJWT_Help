@@ -3,7 +3,7 @@ INSERT INTO products (name, serial) VALUES
 ('Toothpaste', '111-222-3337'),
 ('Travel', '111-222-3333'),
 ('Candy', '111-222-3334'),
-('Book', '111-222-3335');
+('Book', '111-222-3335'),
 ('Newspaper', '111-222-3336');
 
 
